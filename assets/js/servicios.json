@@ -1,0 +1,12 @@
+[
+    {"id": 1, "nombre": "Scanner Pro", "precio": 30000, "descripcion": "Lectura profunda de códigos de error y borrado de fallas.", "imagen": "assets/img/serv1.jpg"},
+    {"id": 2, "nombre": "Alternadores", "precio": 55000, "descripcion": "Reparación completa y prueba de carga.", "imagen": "assets/img/serv2.jpg"},
+    {"id": 3, "nombre": "Aire Acondicionado", "precio": 40000, "descripcion": "Recarga de gas y detección de fugas con UV.", "imagen": "assets/img/serv3.jpg"},
+    {"id": 4, "nombre": "Luces & Xenón", "precio": 25000, "descripcion": "Instalación de kits LED y regulación de altura.", "imagen": "assets/img/serv4.jpg"},
+    {"id": 5, "nombre": "Baterías", "precio": 85000, "descripcion": "Venta e instalación con respaldo de memoria.", "imagen": "assets/img/serv5.jpg"},
+    {"id": 6, "nombre": "Arranque", "precio": 48000, "descripcion": "Mantenimiento de motor de partida y solenoides.", "imagen": "assets/img/serv6.jpg"},
+    {"id": 7, "nombre": "Sensores ABS", "precio": 35000, "descripcion": "Limpieza y reemplazo de sensores de velocidad.", "imagen": "assets/img/serv7.jpg"},
+    {"id": 8, "nombre": "Inyección", "precio": 60000, "descripcion": "Limpieza de inyectores por ultrasonido.", "imagen": "assets/img/serv8.jpg"},
+    {"id": 9, "nombre": "Cierre Centralizado", "precio": 32000, "descripcion": "Reparación de motores de puerta y módulos.", "imagen": "assets/img/serv9.jpg"},
+    {"id": 10, "nombre": "Tableros Digitales", "precio": 50000, "descripcion": "Reparación de pixeles y retroiluminación.", "imagen": "assets/img/serv10.jpg"}
+]
